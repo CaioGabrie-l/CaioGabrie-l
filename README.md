@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Caio Gabriel
 
-<!--
-**CaioGabrie-l/CaioGabrie-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas na UNIFATECIE**
 
-Here are some ideas to get you started:
+💻 Interessado em **desenvolvimento de software** e tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente estou estudando programação e construindo meus primeiros projetos para desenvolver minhas habilidades na prática.
+
+🎯 Meu objetivo é evoluir como desenvolvedor e conquistar minha primeira oportunidade na área de Tecnologia da Informação.
+
+---
+
+### 🛠️ Tecnologias
+
+Atualmente em aprendizado:
+
+- Python
+- Git
+- GitHub
+- SQL
+
+---
+
+### 📚 Sobre meus estudos
+
+Estou construindo meu conhecimento em programação através da graduação, estudos independentes e projetos práticos.
+
+Este perfil será utilizado para registrar minha evolução e compartilhar os projetos que desenvolver ao longo da minha jornada.
+
+---
+
+### 📫 Contato
+
+🔗 [LinkedIn](https://www.linkedin.com/in/caio-gabriel-73067a251/)
